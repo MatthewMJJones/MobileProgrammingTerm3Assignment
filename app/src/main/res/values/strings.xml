@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruit &amp; Veg Inventory App</string>
+    <string name="CREATE_TABLE">CREATE TABLE</string>
+</resources>
